@@ -1,0 +1,13 @@
+.menu {
+  display: flex;
+  justify-content: space-between;
+}
+.menu__item {
+  padding: 20px;
+}
+.menu__item--active {
+  background: red;
+}
+.menu .black-item {
+  color: black;
+}

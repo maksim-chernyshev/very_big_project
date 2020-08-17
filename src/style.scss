@@ -1,0 +1,17 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+
+    &__item {
+        padding: 20px;
+    
+        &--active {
+            background: red;
+        }
+    }
+
+    .black-item {
+        color: black;
+    }
+    
+}

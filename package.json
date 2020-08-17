@@ -1,0 +1,18 @@
+{
+  "name": "very_big_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node parcel.config.js",
+    "build": "node parcel.config.build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {
+    "sass": "^1.26.10"
+  }
+}
